@@ -1,0 +1,42 @@
+span:
+    offset: 6925
+    width: 1000000
+events:
+    -
+        offset: 56925
+        width: 350
+    -
+        offset: 157725
+        width: 375
+    -
+        offset: 257850
+        width: 350
+    -
+        offset: 358375
+        width: 350
+    -
+        offset: 458775
+        width: 350
+    -
+        offset: 559225
+        width: 350
+    -
+        offset: 659550
+        width: 350
+    -
+        offset: 760325
+        width: 350
+    -
+        offset: 861125
+        width: 375
+    -
+        offset: 961875
+        width: 350
+sleep:
+    avg: 0.0000032754443952853762
+    std: 7.176018604075556e-7
+    p95: 3.344632659718627e-7
+    'off': 39000
+options:
+    - '--trim 10'
+version: 25.3.0
